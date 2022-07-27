@@ -1,0 +1,5 @@
+1 lam giao dien ( chia layout , chia component) 
+Xac dinh du lieu thay doi tren giao dien ( state ), to chuc luu tru (redux , number? , string , boolean , object , array)
+binding state len giao dien
+thay doi state
+
